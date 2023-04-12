@@ -1,0 +1,23 @@
+p {
+    text-align: center;
+}
+
+.title {
+    color: brown;
+}
+
+ul li {
+    color: brown;
+}
+
+#CRAZY {
+    color: blue;
+    background-color: red;
+    font-size: xx-large;
+    text-align: center;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
